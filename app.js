@@ -45,7 +45,7 @@ function calculateResults() {
     document.getElementById("loading").style.display = "none";
   } else {
     // console.log("Please Check...");
-    showError("Jesz jablko?");
+    showError("Jestes jablko?");
   }
 }
 
